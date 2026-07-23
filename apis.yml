@@ -1,8 +1,24 @@
 aid: advanced-biohealing
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/advanced-biohealing.png
 name: Advanced Biohealing
-description: Advanced Biohealing is a company surfaced as a portfolio company of canaan-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Advanced BioHealing, Inc. was a regenerative medicine company best known for Dermagraft, a
+  cryopreserved human fibroblast-derived dermal substitute used to treat diabetic foot ulcers. The company
+  acquired the Dermagraft assets from Smith & Nephew in 2006, was backed by Canaan Partners and other venture
+  investors, and was acquired by Shire plc for $750 million in cash in June 2011 to seed Shire's regenerative
+  medicine business unit. Dermagraft was later sold to Organogenesis in 2014. Advanced BioHealing no longer
+  operates as an independent entity and publishes no public developer portal, API, or programmatic surface;
+  this profile is retained in the API Evangelist network as a venture-portfolio company record.
 url: https://raw.githubusercontent.com/api-evangelist/advanced-biohealing/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -15,9 +31,21 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Regenerative Medicine
+- Biotechnology
+- Medical Devices
+- Healthcare
+- Wound Care
+- Life Sciences
+- Venture Portfolio
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
