@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Advanced Biohealing is a company surfaced as a portfolio company of canaan-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Advanced BioHealing, Inc. was a regenerative medicine company best known for Dermagraft, a cryopreserved human fibroblast-derived dermal substitute used to treat diabetic foot ulcers. The company acquired the Dermagraft assets from Smith & Nephew in 2006, was backed by Canaan Partners and other venture investors, and was acquired by Shire plc for $750 million in cash in June 2011 to seed Shire's regenerative medicine business unit. Dermagraft was later sold to Organogenesis in 2014. Advanced BioHealing no longer operates as an independent entity and publishes no public developer portal, API, or programmatic surface; this profile is retained in the API Evangelist network as a venture-portfolio company record.
 
-Backed by: canaan-partners
+**Areas:** Company · Regenerative Medicine · Biotechnology · Medical Devices · Healthcare · Wound Care · Life Sciences · Venture Portfolio
+
+## Advanced Biohealing on APIs.io
+
+Everything profiled for Advanced Biohealing is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/advanced-biohealing/](https://apis.io/providers/advanced-biohealing/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Advanced Biohealing: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/advanced-biohealing/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
